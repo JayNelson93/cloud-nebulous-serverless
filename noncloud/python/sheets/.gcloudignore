@@ -12,7 +12,6 @@
 
 # Source code control files
 .git/
-.gitignore
 .hgignore
 .hg/
 
